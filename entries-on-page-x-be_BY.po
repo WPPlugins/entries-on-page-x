@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Entries on page x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-01-05 14:19+0100\n"
+"Last-Translator: ds <ds@decaf.de>\n"
+"Language-Team: Fat Cow <zhr@tut.by>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Belarusian\n"
+"X-Poedit-Country: BELARUS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ entries-on-page-x
+#: entries-on-page-x.php:159
+msgid "Go to home page"
+msgstr "Да пачатковай старонкі"
+
+#@ entries-on-page-x
+#: entries-on-page-x.php:179
+#: entries-on-page-x.php:193
+#: entries-on-page-x.php:209
+#: entries-on-page-x.php:230
+#: entries-on-page-x.php:246
+#: entries-on-page-x.php:262
+#: entries-on-page-x.php:278
+#: entries-on-page-x.php:292
+#, php-format
+msgid "Entries on page&nbsp;<span class=\"page\">%page</span>"
+msgstr "артыкул на старонцы&nbsp;<span class=\"page\">%page</span>"
+
+#@ entries-on-page-x
+#: entries-on-page-x.php:179
+#, php-format
+msgid "of category&nbsp;<strong>»%category«</strong>"
+msgstr "у катэгорыі&nbsp;<strong>»%category«</strong>"
+
+#@ entries-on-page-x
+#: entries-on-page-x.php:193
+#, php-format
+msgid "for tag&nbsp;<strong>»%tag«</strong>"
+msgstr "загаловак&nbsp;<strong>»%tag«</strong>"
+
+#@ entries-on-page-x
+#: entries-on-page-x.php:209
+#, php-format
+msgid "by&nbsp;<strong>%author</strong>"
+msgstr "ад&nbsp;<strong>%author</strong>"
+
+#@ entries-on-page-x
+#: entries-on-page-x.php:226
+#: entries-on-page-x.php:276
+msgid "Y"
+msgstr "Y"
+
+#@ entries-on-page-x
+#: entries-on-page-x.php:228
+#: entries-on-page-x.php:244
+msgid "j F Y"
+msgstr "j F Y"
+
+#@ entries-on-page-x
+#: entries-on-page-x.php:230
+#: entries-on-page-x.php:246
+#, php-format
+msgid "from&nbsp;<strong>%day</strong>"
+msgstr "<strong>%day</strong>"
+
+#@ entries-on-page-x
+#: entries-on-page-x.php:227
+#: entries-on-page-x.php:260
+msgid "F Y"
+msgstr "F Y"
+
+#@ entries-on-page-x
+#: entries-on-page-x.php:262
+#, php-format
+msgid "from&nbsp;<strong>%month</strong>"
+msgstr "у&nbsp;<strong>%month</strong>"
+
+#@ entries-on-page-x
+#: entries-on-page-x.php:278
+#, php-format
+msgid "in&nbsp;<strong>%year</strong>"
+msgstr "у&nbsp;<strong>%year</strong>"
+

@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Entries on page\n"
+"PO-Revision-Date: 2010-01-05 14:21+0100\n"
+"Last-Translator: ds <ds@decaf.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Poedit-Language: Ukrainian\n"
+"X-Poedit-Country: UKRAINE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;__ngettext_noop:1,2;_c\n"
+"POT-Creation-Date: \n"
+"Language-Team: ghost <iamm@tut.by>\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: entries-on-page-x.php:155
+msgid "Go to home page"
+msgstr "До початку сторінки"
+
+#: entries-on-page-x.php:164
+#: entries-on-page-x.php:178
+#: entries-on-page-x.php:194
+#: entries-on-page-x.php:210
+#: entries-on-page-x.php:226
+#: entries-on-page-x.php:242
+#: entries-on-page-x.php:256
+#, php-format
+msgid "Entries on page&nbsp;<span class=\"page\">%page</span>"
+msgstr "стаття на сторінці&nbsp;<span class=\"page\">%page</span>"
+
+#: entries-on-page-x.php:164
+#, php-format
+msgid "of category&nbsp;<strong>»%category«</strong>"
+msgstr "в категорії&nbsp;<strong>»%category«</strong>"
+
+#: entries-on-page-x.php:178
+#, php-format
+msgid "for tag&nbsp;<strong>»%tag«</strong>"
+msgstr "загаловок&nbsp;<strong>»%tag«</strong>"
+
+#: entries-on-page-x.php:194
+#, php-format
+msgid "by&nbsp;<strong>%author</strong>"
+msgstr "от&nbsp;<strong>%author</strong>"
+
+#: entries-on-page-x.php:240
+msgid "Y"
+msgstr "Y"
+
+#: entries-on-page-x.php:208
+msgid "j F Y"
+msgstr "j F Y"
+
+#: entries-on-page-x.php:210
+#, php-format
+msgid "from&nbsp;<strong>%day</strong>"
+msgstr "<strong>%day</strong>"
+
+#: entries-on-page-x.php:224
+msgid "F Y"
+msgstr "F Y"
+
+#: entries-on-page-x.php:226
+#, php-format
+msgid "from&nbsp;<strong>%month</strong>"
+msgstr "в&nbsp;<strong>%month</strong>"
+
+#: entries-on-page-x.php:242
+#, php-format
+msgid "in&nbsp;<strong>%year</strong>"
+msgstr "в&nbsp;<strong>%year</strong>"
+
